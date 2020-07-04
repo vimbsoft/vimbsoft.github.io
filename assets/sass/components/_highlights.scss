@@ -18,6 +18,11 @@
 
 			.icon {
 				font-size: 5rem;
+				color: transparentize(_palette(accent1, bg), 0.125);
+
+				&:hover {
+					color: _palette(accent1, bg);
+				}
 			}
 		}
 
