@@ -7,7 +7,7 @@
 		@include vendor('align-items', 'center');
 		@include vendor('display', 'flex');
 		@include vendor('justify-content', 'center');
-		background-image: linear-gradient(transparentize(_palette(accent2,bg), 0.75), transparentize(_palette(accent2,bg), 0.75), src='/images/banner.jpg'); // "src =.." was "url = path" before
+		background-image: linear-gradient(transparentize(_palette(accent2,bg), 0.75), transparentize(_palette(accent2,bg), 0.75)), url('../../images/banner.jpg');
 		background-position: center;
 		background-repeat: no-repeat;
 		background-size: cover;
