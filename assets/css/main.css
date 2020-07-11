@@ -3205,8 +3205,9 @@ body:before {
   padding: 0 1.25rem;
   text-decoration: none;
 }
-#header > .logo:hover {
-  color: #289df0;
+#header > .logo img {
+  height: 75%;
+  margin: 0.4em 0 0.4em 0;
 }
 #header > nav > a {
   color: inherit;

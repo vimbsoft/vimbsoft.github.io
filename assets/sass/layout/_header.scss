@@ -47,8 +47,9 @@
 			padding: 0 1.25rem;
 			text-decoration: none;
 
-			&:hover {
-				color: _palette(accent1, bg);
+			img {
+				height: 75%;
+				margin: 0.4em 0 0.4em 0;
 			}
 		}
 
