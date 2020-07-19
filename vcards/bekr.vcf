@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.15.5//EN
+N:Krajinovic;Bernard;;;
+FN:Bernard Krajinovic
+ORG:vimbsoft GmbH;
+EMAIL;type=INTERNET;type=HOME;type=pref:bernard.krajinovic@vimbsoft.at
+TEL;type=CELL;type=VOICE;type=pref:+4369912345678
+ADR;type=HOME;type=pref:;;Seybelgasse 13\, Top 10;Wien;;1230;Österreich
+item1.URL;type=pref:https://vimbsoft.at
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
