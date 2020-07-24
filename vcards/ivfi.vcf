@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//Mac OS X 10.15.5//EN
-N:Krajinovic;Bernard;;;
-FN:Bernard Krajinovic
+N:Filipovic;Ivan;;;
+FN:Ivan Filipovic
 ORG:vimbsoft GmbH;
-TITLE:Co-Founder
-EMAIL;type=INTERNET;type=HOME;type=pref:bernard.krajinovic@vimbsoft.at
-TEL;type=CELL;type=VOICE;type=pref:+4369919080805
+TITLE:Geschäftsführung
+EMAIL;type=INTERNET;type=HOME;type=pref:ivan.filipovic@vimbsoft.at
+TEL;type=CELL;type=VOICE;type=pref:+436601508012
 ADR;type=HOME;type=pref:;;Seybelgasse 13\, Top 10;Wien;;1230;Österreich
 item1.URL;type=pref:https://vimbsoft.at
 item1.X-ABLabel:_$!<HomePage>!$_
